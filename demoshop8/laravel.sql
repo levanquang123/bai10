@@ -190,7 +190,7 @@ CREATE TABLE `tbl_admin` (
 --
 
 INSERT INTO `tbl_admin` (`admin_id`, `admin_email`, `admin_password`, `admin_name`, `admin_phone`, `created_at`, `updated_at`) VALUES
-(1, 'tridt.23ai@vku.udn.vn', '$2y$10$pS840ufa1onGuy8HIG/5M.Z9h/dTR9V0W.yZofcv3qmFJHtOqMbcG', 'thanhtri', '0779533775', NULL, NULL);
+(1, 'quang.23it@vku.udn.vn', '$2y$10$pS840ufa1onGuy8HIG/5M.Z9h/dTR9V0W.yZofcv3qmFJHtOqMbcG', 'quangle', '0779533775', NULL, NULL);
 
 -- --------------------------------------------------------
 
